@@ -12,6 +12,13 @@ types of control over scripting, allows white/black lists and 'memory only'
 cookies, allows you to customize the user agent to help combat tracking, and
 other features as I think them up.
 
+
+This project appears to have NO copyright.  However I will still attribute it
+to its original author.  I expect to license the modified version under a dual
+license of GPLv2 or an M.I.T.-like license, one that attributes the original
+author.
+
+
 ## From original 'README'
 
 ### Controls:
@@ -35,3 +42,4 @@ make
 
 ### Author
 B.Thach
+
